@@ -1,2 +1,2 @@
-# ReciclaTec
+# Hidra
 Projeto Integrador II
