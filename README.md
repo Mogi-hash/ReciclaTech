@@ -2,6 +2,6 @@
 
 Projeto Integrador III
 
-Frontend: VueJS
+Frontend: Flutter
 Backend: DJango
 Banco de Dados: PostgreSQL
