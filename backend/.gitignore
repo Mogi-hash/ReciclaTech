@@ -1,0 +1,26 @@
+# Variáveis de ambiente
+.env
+
+# Dependências
+/node_modules
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/logs
+
+# Build
+/build
+/dist
+/public/build
+/public/dist
+
+# Testes
+/coverage
+
+# Cache do IDE / SO
+.DS_Store
+.vscode/
+
+# Pastas extra

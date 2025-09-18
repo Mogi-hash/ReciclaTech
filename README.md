@@ -2,6 +2,8 @@
 
 Projeto Integrador III
 
+Integrantes do grupo: Pedro Lucas, Hermogenes e Bruno
+
 Frontend: Flutter
-Backend: DJango
+Backend: ExpressJS
 Banco de Dados: PostgreSQL
